@@ -23,6 +23,9 @@ Las transcripciones se encuentran ordenadas con la siguiente estructura:
     — PNG de mapa de las palabras mas usadas por todos los participantes.
 ```
 
+## NOTA IMPORTANTE
+En los archivos CSV's se incluye una columna con nombre: "Sentimiento" cuyo objetivo es agregar una métrica de sentimiento al texto del renglón del CSV. Por ahora, este dato NO es válido ni representativo del sentmiento del texto en el renglón. POR FAVOR IGNORA este dato.
+
 ## Licencia de Uso
 El repositorio contiene la licencia: "Creative Commons Attribution Share Alike 4.0 International" que puede ser encontrada en este repositorio en el archivo LICENSE.md y en el siguiente hipervínculo: https://creativecommons.org/licenses/by-sa/4.0/
 
