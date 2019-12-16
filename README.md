@@ -1,5 +1,14 @@
 # Conferencias Matutinas ( Mañaneras ) del Presidente Andres Manuel López Obrador
-Este repositorio contiene las transcripciones de las versiones estenográficas de las conferencias matutinas del Presidente Andres Manuel López Obrador.
+
+![Foto del Presidente de Los Estados Unidos Mexicanos, Andres Manuel López Obrador](foto_amlo.jpg)
+
+Este repositorio contiene las transcripciones de las versiones estenográficas de las conferencias matutinas del Presidente Andres Manuel López Obrador desde el inicio de las mismas en Diciembre 2018.
+
+El objetivo de este repositorio es mostrar el alcance de análisis de datos aplicado a temas de interés público en México. 
+
+Buscamos que personas con interés en análisis, creación de visualizaciones y con un sentido de curiosidad en datos, cuenten con una base de datos actualizada constantemente con la que se pueda generar contenido que promueva el aprendizaje.
+
+Si observas que este repositorio no ha sido actualizado, solo menciónanos en Twitter ( @nostrodata ) para actualizarlo a la brevedad :)
 
 ## Estructura y Formato
 Las transcripciones se encuentran ordenadas con la siguiente estructura:
@@ -17,7 +26,7 @@ Las transcripciones se encuentran ordenadas con la siguiente estructura:
 ## Licencia de Uso
 El repositorio contiene la licencia: "Creative Commons Attribution Share Alike 4.0 International" que puede ser encontrada en este repositorio en el archivo LICENSE.md y en el siguiente hipervínculo: https://creativecommons.org/licenses/by-sa/4.0/
 
-Si utilizas alguno de los archivos en este repositorio, te pedimos nos des crédito: Nostrodata ( www.nostrodata.com )
+Si utilizas alguno de los archivos en este repositorio, solo te pedimos nos menciones: @nostrodata ( www.nostrodata.com )
 
 ## Síguenos en Nuestras Redes Sociales
 https://www.twitter.com/nostrodata
