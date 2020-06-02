@@ -1,4 +1,5 @@
-# Conferencias Matutinas ( Mañaneras ) del Presidente Andres Manuel López Obrador
+# Conferencias Matutinas ( Mañaneras )
+# del Presidente Andres Manuel López Obrador
 
 ![Foto del Presidente de Los Estados Unidos Mexicanos, Andres Manuel López Obrador](foto_amlo.jpg)
 
@@ -13,14 +14,15 @@ Si observas que este repositorio no ha sido actualizado, solo menciónanos en Tw
 ## Estructura y Formato
 Las transcripciones se encuentran ordenadas con la siguiente estructura:
 ```
-— Folder ( mes-año )
-  — Folder ( mes dia, año )
-    — Folder ( csv_por_participante )
-      — CSV's de las intervenciones de cada participante.
-    — Folder ( wordmaps_por_participante )
-      — PNG's de mapas de las palabras mas usadas por cada participante.
-    — CSV de la mañanera completa con todos los participantes.
-    — PNG de mapa de las palabras mas usadas por todos los participantes.
+— Folder ( año )
+  — Folder ( mes-año )
+    — Folder ( mes dia, año )
+      — Folder ( csv_por_participante )
+        — CSV's de las intervenciones de cada participante.
+      — Folder ( wordmaps_por_participante )
+        — PNG's de mapas de las palabras mas usadas por cada participante.
+      — CSV de la mañanera completa con todos los participantes.
+      — PNG de mapa de las palabras mas usadas por todos los participantes.
 ```
 
 ## NOTA IMPORTANTE
@@ -33,7 +35,5 @@ Si utilizas alguno de los archivos en este repositorio, solo te pedimos nos menc
 
 ## Síguenos en Nuestras Redes Sociales
 https://www.twitter.com/nostrodata
-
 https://www.facebook.com/nostrodata
-
 https://www.instagram.com/nostrodata
