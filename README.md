@@ -33,6 +33,6 @@ El repositorio contiene la licencia: "Creative Commons Attribution Share Alike 4
 Si utilizas alguno de los archivos en este repositorio, solo te pedimos nos menciones: @nostrodata ( www.nostrodata.com )
 
 ## Síguenos en Nuestras Redes Sociales
--https://www.twitter.com/nostrodata
--https://www.facebook.com/nostrodata
--https://www.instagram.com/nostrodata
+* https://www.twitter.com/nostrodata
+* https://www.facebook.com/nostrodata
+* https://www.instagram.com/nostrodata
