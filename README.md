@@ -31,7 +31,9 @@ En los archivos CSV's se incluye una columna con nombre: "Sentimiento" cuyo obje
 El repositorio contiene la licencia: "Creative Commons Attribution Share Alike 4.0 International" que puede ser encontrada en este repositorio en el archivo LICENSE.md y en el siguiente hipervínculo: https://creativecommons.org/licenses/by-sa/4.0/
 
 Si utilizas alguno de los archivos en este repositorio, solo te pedimos nos menciones: 
-@nostrodata ( www.nostrodata.com )
+
+* @nostrodata 
+* https://www.nostrodata.com
 
 ## Síguenos en Nuestras Redes Sociales
 * https://www.twitter.com/nostrodata
