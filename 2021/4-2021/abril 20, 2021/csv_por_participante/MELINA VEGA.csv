@@ -1,0 +1,12 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+MELINA VEGA," Buenos días, señor presidente. Me presento con usted, soy la teniente enfermera Melina Vega y voy a ser quien aplique su vacuna el día de hoy.",0.0,26,20,04,2021
+MELINA VEGA,"Le muestro la vacuna que va a ser aplicada, es vacuna contra COVID-19, es del laboratorio de AstraZeneca y le muestro la jeringa con la que va a ser vacunado, igualmente es una jeringa nueva, está totalmente sellada.",0.0,38,20,04,2021
+MELINA VEGA,"Antes de aplicarla, voy a realizar unas preguntas. ¿Usted ha presentado fiebre en las últimas 24 horas?",0.0,17,20,04,2021
+MELINA VEGA, ¿Algún síntoma de COVID en las últimas 24 horas?,0.0,9,20,04,2021
+MELINA VEGA, ¿Alérgico a algún medicamento?,0.0,4,20,04,2021
+MELINA VEGA, ¿Alguna transfusión sanguínea en los últimos tres meses?,0.0,8,20,04,2021
+MELINA VEGA," Vamos a levantar su camisa, vamos a descubrirlo. Relaje su brazo. Tranquilo, es muy rápido.",0.0,15,20,04,2021
+MELINA VEGA, Voy a proceder a realizar la asepsia. ¿Alguna molestia?,0.0,9,20,04,2021
+MELINA VEGA,"Puede presentar algunas reacciones, desde dolor en el sitio de la punción, inflamación, enrojecimiento. Es importante no manipular el sitio de la punción, no rascar, no dar masaje, no aplicar comprensas calientes ni frías.",0.0,34,20,04,2021
+MELINA VEGA,"Algunas otras reacciones que pudiera presentar: dolor de cabeza, malestar general, cansancio, dolor articular, dolor muscular, incluso podría haber fiebre. De hecho, vamos a pedirle, por favor, que permanezca bajo vigilancia aproximadamente 30 minutos para observar que no haya ninguna reacción importante y le hago entrega de su cartilla en donde ya queda el registro de su vacuna.",0.0,58,20,04,2021
+MELINA VEGA," Eso sería todo, señor, de nuestra parte.",0.0,7,20,04,2021
