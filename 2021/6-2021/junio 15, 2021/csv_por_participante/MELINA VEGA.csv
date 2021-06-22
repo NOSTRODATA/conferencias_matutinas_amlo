@@ -1,0 +1,11 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+MELINA VEGA," Claro que sí, señor presidente.",0.0,5,15,06,2021
+MELINA VEGA," Buenos días, señor presidente. Me presento nuevamente con usted, soy la teniente enfermera Melina Vega.",0.0,15,15,06,2021
+MELINA VEGA,"Le muestro su jeringa con la que va a ser vacunado y le muestro la vacuna del laboratorio AstraZeneca. Antes de aplicarla vamos a realizar, como es ya protocolo, algunas preguntas.",0.0,31,15,06,2021
+MELINA VEGA,¿Presentó usted alguna reacción con su primera dosis?,0.0,8,15,06,2021
+MELINA VEGA, ¿Ha presentado usted fiebre o algún otro síntoma de COVID en las últimas 24 horas?,0.0,15,15,06,2021
+MELINA VEGA, ¿Alérgico a algún medicamento?,0.0,4,15,06,2021
+MELINA VEGA," Okey, vamos a aplicar su vacuna. El procedimiento es exactamente igual que con su primera dosis.",0.0,16,15,06,2021
+MELINA VEGA," Es muy importante que nos haga saber si presenta alguna reacción y, como en la primera ocasión, vamos a pedirle que permanezca en observación 30 minutos para verificar que no haya alguna reacción importante.",0.0,34,15,06,2021
+MELINA VEGA,"Le entrego su Cartilla de Vacunación, en donde ya se encuentra el registro de su segunda dosis y con esto queda completado su esquema de vacunación contra COVID-19.",0.0,28,15,06,2021
+MELINA VEGA," Eso es todo, señor presidente.",0.0,5,15,06,2021
