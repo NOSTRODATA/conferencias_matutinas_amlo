@@ -1,0 +1,122 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Soy Max de Haldevang, de Bloomberg. Buen día, presidente.",0.0,9,03,08,2021
+PREGUNTA, De Bloomberg News.,0.0,3,03,08,2021
+PREGUNTA,En Bloomberg la semana pasada publicamos una nota que mostró que en 2007 Pemex prometió ante Semarnat proteger y cuidar el área en la que está construyendo la refinería de Dos Bocas y además prometió no construir nuevas obras ahí.,0.0,40,03,08,2021
+PREGUNTA,"La investigación está respaldada por documentos públicos del mismo Pemex que, según cuatro abogados independientes que consultamos, están vigentes durante 20 años.",0.0,22,03,08,2021
+PREGUNTA,Quiero saber si sabía usted que Pemex hizo este compromiso y está construyendo Dos Bocas en esa área que había prometido proteger. ¿Y qué le parece esto?,0.0,27,03,08,2021
+PREGUNTA," Bueno, gracias, pero esto no se trata de la política de exportar el crudo, pero más de lo que Pemex comprometió al proteger este terreno. Depende de ustedes. ¿Van a revisar por lo menos estos documentos?",0.0,36,03,08,2021
+PREGUNTA, Muchas gracias.,0.0,2,03,08,2021
+PREGUNTA,"¿Y podría recibir, no sé, un castigo Pemex por…?",0.0,9,03,08,2021
+PREGUNTA," Bueno, muchísimas gracias.",0.0,3,03,08,2021
+PREGUNTA, Gracias.,0.0,1,03,08,2021
+PREGUNTA," Gracias, presidente. Buenos días. Judith Sánchez Reyes, corresponsal de Imagen del Golfo, de Veracruz.",0.0,14,03,08,2021
+PREGUNTA,"Presidente, preguntarle, el Poder Judicial en el estado está enfrentando una crisis financiera debido a un déficit de 500 millones de pesos en el ejercicio presupuestal de este año derivado de contratos que hizo el expresidente del Tribunal Superior de Justicia, Edel Álvarez, con empresas que se encargarían de construir 22 ciudades judiciales en las diferentes regiones del estado; sin embargo, bueno, esto no se ha dado de manera clara.",0.0,70,03,08,2021
+PREGUNTA,"Se tiene información de que incluso estos contratos tienen que ver con empresas ligadas al exgobernador del estado, Miguel Ángel Yunes Linares, empeñando así los recursos del Poder Judicial por 25 años. Por esta situación ya hay denuncias presentadas, no han procedido.",0.0,42,03,08,2021
+PREGUNTA,"Y lo preocupante también es que por esta situación financiera han tenido que cerrar 29 juzgados, lo que dificultad y limita la impartición de justicia en Veracruz.",0.0,27,03,08,2021
+PREGUNTA,¿Qué opinión le merece esta situación? Si usted este tema lo pudo abordar o le dio información el gobernador ahora en su gira por el estado.,0.0,26,03,08,2021
+PREGUNTA," Presidente, pero, por ejemplo, en el tema justamente el que no estén laborando o hayan cerrado 29…",0.0,17,03,08,2021
+PREGUNTA, ¿Qué se tendría que hacer?,0.0,5,03,08,2021
+PREGUNTA, Bien.,0.0,1,03,08,2021
+PREGUNTA,"Siguiendo justamente ahí en el estado, usted ha manifestado opinión sobre la actuación del Instituto Nacional Electoral en el pasado proceso, sobre todo lo que tiene que ver con las multas, un ejemplo de ello fue las multas que le imputaron al actual, bueno, al gobernador electo de Nuevo León.",0.0,50,03,08,2021
+PREGUNTA,"En Veracruz hay evidencia de la intervención directa del alcalde Fernando Yunes en el pasado proceso electoral que, bueno, inclinaba obviamente las preferencias a favor de la esposa de su hermano. Hay también ya denuncias al respecto, no han avanzado de manera como los veracruzanos quisieran y esa denuncia va también en cuanto al rebase de recursos o del tope de campaña.",0.0,62,03,08,2021
+PREGUNTA,"¿Qué opinión le merece también en este sentido, presidente?",0.0,9,03,08,2021
+PREGUNTA," ¿No pensaría que es un acto, bueno, un acto de imparcialidad de parte del instituto?",0.0,15,03,08,2021
+PREGUNTA," Gracias, presidente. Sandra Aguilera, de Grupo Larsa Comunicaciones.",0.0,8,03,08,2021
+PREGUNTA,"A propósito de lo que está hablando, presidente, con respecto a la consulta de este fin de semana, muchos youtubers se unieron en un maratón de transmisión tres días, viernes, sábado y domingo, donde obtuvieron denuncias y evidencias de que las casillas estaban muy lejanas y escondidas.",0.0,47,03,08,2021
+PREGUNTA,"De hecho, en Oaxaca y Chiapas las casillas estaban a dos horas de distancia, por lo cual las personas no podían acudir, porque aparte no tienen transporte.",0.0,27,03,08,2021
+PREGUNTA,"Se tienen videos también de que fueron cancelando las boletas a las 12:00 del día, que porque les habían dicho las personas que las capacitaron en el INE.",0.0,28,03,08,2021
+PREGUNTA,"Yo le pregunto: ¿qué hará su gobierno para evitar que esto se vuelva a repetir?, porque son injusticias del INE para el pueblo, presidente.",0.0,24,03,08,2021
+PREGUNTA," Gracias, presidente.",0.0,2,03,08,2021
+PREGUNTA,"Por otro lado, en Jalisco hay más de 300 mil asesinados, más de 84 mil desaparecidos, más de cuatro mil fosas clandestinas, más de 39 mil cuerpos en los Semefos y 12 personas son desparecidas por día. En los Semefos ya no hay lugar para los cuerpos, por lo que no están abriendo estas fosas clandestinas.",0.0,56,03,08,2021
+PREGUNTA,"Los familiares de los desaparecidos solicitaron que le recordara que se han acercado a usted en otras ocasiones para solicitarle un laboratorio para poder hacer las pruebas de ADN y así localizar a sus familiares más fácilmente, ya que muchos de ellos están mutilados y el gobierno estatal hace caso omiso a sus necesidades, sobre todo a las madres de las personas desaparecidas.",0.0,63,03,08,2021
+PREGUNTA,"Por otro lado, presidente quisiera saber qué vacunas están autorizadas para los mexicanos que puedan entrar a Estados Unidos y a Europa, ya que les han puesto vacunas y no les permiten la entrada. Entonces, quisieran saber muchos qué vacunas pueden ponerse, porque se ponen por obviamente la urgencia, pero cuando quieren viajar por trabajo no les es accedido el paso.",0.0,61,03,08,2021
+PREGUNTA,"Y si se pueden vacunar, después de que ya están vacunados, nuevamente para poder entrar a esos países, presidente.",0.0,19,03,08,2021
+PREGUNTA,Gracias.,0.0,1,03,08,2021
+PREGUNTA," Okey, muchas gracias.",0.0,3,03,08,2021
+PREGUNTA,¿Y se pueden vacunar -esta sería para el doctor Gatell- si ya están vacunados nuevamente?,0.0,15,03,08,2021
+PREGUNTA," Muchas gracias. Gracias, presidente.",0.0,4,03,08,2021
+PREGUNTA," Buenos días presidente, buenos días a todos. Zósimo Camacho, de la revista Contralínea.",0.0,13,03,08,2021
+PREGUNTA,"En la revista Contralínea, señor presidente, documentamos que Pegasus, esta plataforma de espionaje, llegó al país por primera vez a la Secretaría de la Defensa Nacional, fue en la Sección 2ª, que es inteligencia militar, el lugar que Felipe Calderón destinó para que se albergara y fuera la sede de esta plataforma de espionaje masivo.",0.0,55,03,08,2021
+PREGUNTA,"Fueron contratos, tenemos copia de ellos, por más de ocho mil millones de pesos que incrementan hasta cuatro veces lo dado a conocer hace dos semanas aquí y que solamente involucró a dependencias de carácter civil.",0.0,36,03,08,2021
+PREGUNTA,Esta sede de Pegasus en el Centro de Comando y Control del Estado Mayor de la Defensa Nacional implicó incluso que se habilitara todo un edificio para las operaciones de esta plataforma.,0.0,32,03,08,2021
+PREGUNTA,"Y la pregunta, señor presidente, es ¿qué estatus tiene actualmente Pegasus en la Secretaría de la Defensa Nacional? Si es que se sigue utilizando en labores de inteligencia para combatir a la delincuencia y, si es que ya no se usa, ¿qué destino tuvo toda esta infraestructura que incluso involucró a más de 200 computadoras, más de mil teléfonos y toda una red que se instaló en el Estado Mayor?",0.0,70,03,08,2021
+PREGUNTA, ¿Con Pegasus?,0.0,2,03,08,2021
+PREGUNTA, ¿Las investigaciones que realizan actualmente alcanzarán también a estas dependencias castrenses en materia de…?,0.0,14,03,08,2021
+PREGUNTA," En una segunda pregunta, señor presidente, la semana, bueno, hace dos semanas hubo una reunión en el sindicato petrolero, una reunión privada que encabezó por supuesto su secretario Miguel Limón Hernández, a la que acudieron también los 36 dirigentes de las secciones estatales. Fue una reunión de carácter privado, pero Contralínea tuvo acceso a las versiones estenográficas de lo que ahí se discutió.",0.0,63,03,08,2021
+PREGUNTA,"Y, señor presidente, lo que nosotros pudimos leer y que documentamos, que ya publicamos, bueno, pues no nada más es un asunto de animadversión hacia su gobierno, que sería lo de menos, un asunto de confrontación directa, incluso insultos hacia su persona, sino lo peor, realmente lo preocupante de esta situación es de que están poniéndose de acuerdo para maniobrar, en primer lugar, en este proceso electoral de esta dirigencia que se está llevando a cabo, este proceso actualmente.",0.0,79,03,08,2021
+PREGUNTA,"Y también incluso tienen la intención o estudian la posibilidad de declarar o emplazar a huelga a la principal empresa del Estado mexicano y ellos así, de manera textual lo señalan diciendo que con eso podrían incidir en la economía del país para mal y que sería una muy fuerte rehén de su gobierno frente a estos petroleros que ahora están nerviosos por perder canonjías y por perder el control de un sindicato ante esta incipiente democratización de los sindicatos en México.",0.0,82,03,08,2021
+PREGUNTA," Algo que rechazan, según lo que…",0.0,6,03,08,2021
+PREGUNTA," ¿Hay condiciones, señor presidente?",0.0,4,03,08,2021
+PREGUNTA," Finalmente, señor presidente, solamente quería hacerle un respetuoso recordatorio acerca de dos preguntas que quedaron pendientes de respuesta.",0.0,18,03,08,2021
+PREGUNTA,La primera tiene que ver con la situación del general Gallardo. Usted comentó a una pregunta anterior que se presentaría un informe sobre cuál era el estatus de este general al final de su vida al interior de las Fuerzas Armadas.,0.0,41,03,08,2021
+PREGUNTA,Y también si había una investigación acerca de quienes ordenaron su persecución a él y a su familia también. Esa era una pregunta que quedó pendiente.,0.0,26,03,08,2021
+PREGUNTA," Y la otra pregunta que quedó pendiente, presidente, es sobre los normalistas rurales, la situación que están, digo, padeciendo de reducción de presupuesto a nivel estatal y que a la pregunta que yo le hice en ese momento. Usted señaló que después de las elecciones buscaría hablar con ellos, habría un diálogo con los normalistas rurales de manera directa.",0.0,59,03,08,2021
+PREGUNTA,"Y, bueno, precisamente, ellos tienen un plantón aquí afuera, ya tiene tiempo que están solicitando el diálogo con usted.",0.0,19,03,08,2021
+PREGUNTA," ¿Habrá diálogo con usted, presidente?",0.0,5,03,08,2021
+PREGUNTA, ¿Eliminar el comedor de las normales?,0.0,6,03,08,2021
+PREGUNTA, Será interesante el diálogo con ellos.,0.0,6,03,08,2021
+PREGUNTA," En el caso de los normalistas rurales, no hay fósiles; ellos, al terminar sus estudios, inmediatamente dejan la escuela y no tienen nada más que ver.",0.0,26,03,08,2021
+PREGUNTA, (inaudible) órdenes de aprehensión.,0.0,4,03,08,2021
+PREGUNTA," Gracias, presidente. Reyna Haydee Ramírez, reportera independiente para la Alianza de Medios.",0.0,12,03,08,2021
+PREGUNTA,"Presidente, usted hablaba el jueves sobre que se va a erradicar, que no se va a permitir la tortura en, bueno, en su sexenio por lo menos.",0.0,27,03,08,2021
+PREGUNTA,"Hay un caso particularmente -qué bueno que está aquí Rosa Icela, la secretaria de Seguridad- que tiene que ver con el Cefereso 11 de Sonora. Hay una queja, está ante la CNDH y hasta el momento no se ha hecho nada con una persona, un joven de Jalisco que hubiera sido ingeniero; era estudiante cuando tenía 21 años, estaba en la Universidad de Guadalajara, hubiera sido ingeniero si no es que Marina lo detiene en el 2012 en Jalapa, cuando él andaba haciendo un, un… Trataba de entrar a un equipo de fútbol y lo detienen y lo acusan de delincuencia organizada.",0.0,102,03,08,2021
+PREGUNTA,"Hasta ahorita no ha sido sentenciado, ya van casi 10 años. El problema uno es ese, pero el problema principal que reclama la familia y que ya ha acudido a la Comisión Nacional de los Derechos Humanos es que hace dos años él adquirió una enfermedad de una bacteria en el rostro, porque los obligan todos los días a rasurarse y a raparse a los reos.",0.0,66,03,08,2021
+PREGUNTA,"En una investigación de Perimetral Press, de Jalisco, se indica que la tortura, que este tipo de acciones, hacerlos que se rapen y que se rasuren todos los días atenta contra sus derechos humanos y de acuerdo a las modificaciones que se hicieron a la ley de tortura en el 2017.",0.0,51,03,08,2021
+PREGUNTA,"Entonces, si esto va a cambiar, presidente, en su gobierno, si se van a tomar acciones para que las medidas o las acciones que se realizan en las cárceles, en los Ceferesos, las cárceles federales, van a modificar o van a respetar los derechos humanos de las personas.",0.0,48,03,08,2021
+PREGUNTA,"Hasta ahorita a esta persona no le dan medicamento para tratarse, la familia lo tiene que mandar y a veces no lo reciben, el último medicamento que envió no se lo recibieron y la empresa DHL lo destruyó, no avisó, se destruyó el medicamento, que cuesta como cuatro mil pesos.",0.0,50,03,08,2021
+PREGUNTA,"Entonces, ¿qué se va a hacer en este caso particular, presidente?",0.0,11,03,08,2021
+PREGUNTA,"Y si hay un acuerdo con los estados, en el mismo tema, para los reos que están en las cárceles estatales para que se… Cuando hablaba usted de la amnistía para estas personas, que ya mencionaba cuatro puntos, si se va a hacer un acuerdo con los estados para que se haga también a nivel estatal, porque también ahí hay reos.",0.0,61,03,08,2021
+PREGUNTA,"En Nogales, por ejemplo, hay un caso de un señor que tiene 80 años, es un indígena, lo acusan de feminicidio, pero él no sabe, o sea, nunca supo por qué estaba ahí, cómo fue su proceso, porque habla una lengua que… Hay personas de Oaxaca que le han querido ayudar y no se ha podido porque no le entienden muy bien a su lengua, entonces no hay quien le atienda también a esta persona. Tiburcio se llama, está en Nogales.",0.0,81,03,08,2021
+PREGUNTA,"Entonces, primero si me puede responder esto de las cárceles.",0.0,10,03,08,2021
+PREGUNTA," Secretaria, ¿sigue aplicándose esas medidas estrictas de raparse y de rasurarse todos los días en los penales federales?",0.0,18,03,08,2021
+PREGUNTA," Pero ¿sigue eso en las cárceles?, porque la ley de la tortura, según lo que explica esta nota de Perimetral, se sigue haciendo y hay otras medidas muy estrictas para con los reos. Independientemente de que sean, estén por delitos federales, crimen organizado, lo que sea, tienen que se le respete ahí sus derechos humanos mínimos, derechos mínimos humanos.",0.0,59,03,08,2021
+PREGUNTA," Secretaria, él habla de que no es el único caso, o sea, a todos los obligan a rasurarse, a todos los obligan. Hay condiciones muy estrictas y que ellos consideran que atentan contra sus derechos humanos, incluso la Comisión Nacional de Derechos Humanos ya lo constató.",0.0,46,03,08,2021
+PREGUNTA,"El problema aquí, secretaria, y que me parece a mí fundamental es que, en el caso de esta persona como muchas otras, por ejemplo, me tocó ver cuando estuvo Mireles en el Cefereso 11, tenían medidas estrictas, el señor hasta se enfermó, Mireles, que en paz descanse; me tocó ver cómo los maestros sufrieron ahí.",0.0,55,03,08,2021
+PREGUNTA,"Entonces, gente que es inocente que es internada en penales federales tiene que padecer las mismas medidas estrictas y todo este proceso en los penales.",0.0,25,03,08,2021
+PREGUNTA,"La pregunta es si con este gobierno cambió, si realmente se van a respetar o se están respetando los derechos humanos, porque lo que dice este muchacho acaba de ocurrir. Ahora en febrero fue cuando le quitaron el medicamento.",0.0,39,03,08,2021
+PREGUNTA," Sí, nada más, las ONG observatorios de este tipo de los penales indican que hay sólo cinco casos, cinco demandas que han sido atendidas contra quejas porque es difícil que las personas ahí internas puedan denunciar, primero, por temor, porque hay muchas represalias también.",0.0,44,03,08,2021
+PREGUNTA,"Entonces, ¿de qué manera vigilarían ustedes que se cumplimente realmente la atención y el respeto a los derechos humanos en los penales?",0.0,22,03,08,2021
+PREGUNTA, ¿Ya tiene una idea cuántos va a beneficiar esta?,0.0,9,03,08,2021
+PREGUNTA," Porque hay mucha gente que se dice inocente, presidente, y están en estos penales acusados de crímenes graves, entonces, ¿qué va a pasar o qué hay para ellos?",0.0,28,03,08,2021
+PREGUNTA," ¿Sí se revisarían estos casos, presidente, de gente que alega ser inocente y está por delitos graves, acusada de delitos graves?",0.0,21,03,08,2021
+PREGUNTA," Pero hay gente que no está en esos supuestos, o sea, hay gente que está acusada de delitos graves, como este muchacho, que dice que es inocente, que era estudiante y está ahí acusado de delincuencia organizada.",0.0,37,03,08,2021
+PREGUNTA," ¿Para ellos hay una respuesta, presidente?, porque son muchos casos.",0.0,10,03,08,2021
+PREGUNTA," En una segunda pregunta, presidente, en Sonora pues está ya escasos mes y medio de que se termine este sexenio y comentarle que justamente mañana el gobierno de Sonora ha hecho una, bueno, desde junio está preparando una licitación a sobre cerrado, dice, para subastar 29 predios, 27 de ellos en zona de playa y los otros en Hermosillo, en San Luis, en Guaymas.",0.0,64,03,08,2021
+PREGUNTA,"Pues eso está como raro, que a mes y medio de salir 29 predios, 27 de ellos en zona de playa en la costa de Hermosillo, se subasten a sobre cerrado, o sea, es una… ¿Qué opinión le merece esto, presidente?",0.0,41,03,08,2021
+PREGUNTA,"Y, además, la gobernadora también está haciendo… Ya también, a un mes y medio de salir, está entregando notarías, así como si fuera una maquinita. Lleva cinco patentes de notarios entregadas en el último mes, una de ellas a su secretario de gobierno, Miguel Pompa Corella, y que en este no tuvo ni el descaro de verificar, bueno, el tino de… El día que le declaran aspirante, ese día la gobernadora creo una patente, la 113, y ahora recientemente el 21 de junio ya se la entregaron a Miguel Pompa Corella, en Hermosillo, por supuesto. Esa es una y esa es la… Bueno, los demás también son, por ejemplo, Fernando López en Nogales, Natalia López en Puerto Peñasco, Roberto Rubio en Cajeme, Guadalupe Guerrero en Santa Ana, o sea, son las nuevas notarías entregadas por la gobernadora recientemente y tiene otras cinco que ya los acaba de registrar en el boletín oficial como aspirantes a notarios: Saíd Arturo Acuña, Roberto Andrés de la Peña, María Guadalupe Márquez Félix, José Miguel Fischer Avilés Casté, o sea, a ellos ya les dieron también para ser aspirante, patente de aspirantes.",0.0,187,03,08,2021
+PREGUNTA,"Entonces, usted había hablado, la secretaria de Gobierno, Olga Sánchez Cordero, también había hablado de que iban a… que esto ya no se iba a permitir, que su gobierno iba a hacer algo para que esto no sucediera, pero parece que la gobernadora se salvó, la gobernadora Claudia Pavlovich se salvó de esto, presidente.",0.0,54,03,08,2021
+PREGUNTA,"¿Su gobierno cómo ha avanzado esto?, ¿qué pasó en este tipo de…? No sé si iban a modificar la ley o iban a hacer un acuerdo a nivel federal. ¿Qué se iba a hacer?, porque ahorita ya Sonora va a tener cinco nuevas patentes, funcionarios y resulta que el que pierde es el ciudadano, porque estas personas no salen a… Como lo dice bien, es fe pública, los notarios son fe pública, son gente honesta que se supone que actúa en función del estado, como si fuera el gobernador. Entonces, ya Sonora está en eso.",0.0,95,03,08,2021
+PREGUNTA,"Hace un año también, el año pasado también a la gobernadora la protesta obligó a que quitara una, que no le diera una patente de notario a su director jurídico, quién sabe si ahorita en este mes que le queda lo va a volver a meter.",0.0,46,03,08,2021
+PREGUNTA,"Pero si usted tiene un llamado a los gobernadores salientes que este tipo de prácticas, que pues obviamente son corrupción o no sé usted cómo lo considere. Bueno, ya lo ha dicho muchas veces usted.",0.0,35,03,08,2021
+PREGUNTA, Pero si puede volver a hacer un llamado a los gobernadores.,0.0,11,03,08,2021
+PREGUNTA," No, no. No le tenga miedo a la gobernadora, presidente.",0.0,10,03,08,2021
+PREGUNTA, El 15 de septiembre.,0.0,4,03,08,2021
+PREGUNTA," Ah, el 13 de septiembre, sí, el 16 los alcaldes.",0.0,10,03,08,2021
+PREGUNTA," Si Pompa Corella, está operando, presidente.",0.0,6,03,08,2021
+PREGUNTA," Pompa Corella, el exsecretario de Gobierno o secretario de Gobierno, ya tiene su notaría y ya está ahí.",0.0,18,03,08,2021
+PREGUNTA," ¿Qué le diría a Durazo, el próximo gobernador de Sonora, sobre este tema, presidente?",0.0,14,03,08,2021
+PREGUNTA," La subasta es mañana, 4 de agosto.",0.0,7,03,08,2021
+PREGUNTA," Pero ¿no le parece sospechoso a un mes y medio, bueno, menos de mes medio?",0.0,15,03,08,2021
+PREGUNTA, Políticos.,0.0,1,03,08,2021
+PREGUNTA," El problema es que hay una lista, presidente, hay una lista de aspirantes y de la noche a la mañana en un mes aparecen los aspirantes que la gobernadora quiere.",0.0,30,03,08,2021
+PREGUNTA, Pero que lo mandata el gobierno del estado.,0.0,8,03,08,2021
+PREGUNTA, Son cómplices.,0.0,2,03,08,2021
+PREGUNTA," Bueno, allá sí, en Sonora, sí, eso sí se lo puedo asegurar.",0.0,12,03,08,2021
+PREGUNTA," Pues por eso ponen un notario afín, presidente.",0.0,8,03,08,2021
+PREGUNTA, Sí lo saben y lo están cuestionando los que…,0.0,9,03,08,2021
+PREGUNTA," La barra sonorense, pero los notarios no, los notarios no lo cuestionan; al contrario, solapan a la gobernadora.",0.0,18,03,08,2021
+PREGUNTA, El colegio de notarios.,0.0,4,03,08,2021
+PREGUNTA, Los que ya tienen notaría.,0.0,5,03,08,2021
+PREGUNTA," Sí, porque son parte de a la hora de…",0.0,9,03,08,2021
+PREGUNTA," Hay un colegio de notarios, presidente, que la mayoría de esas notarías se han entregado de esta misma manera como hoy las están entregando.",0.0,24,03,08,2021
+PREGUNTA," Y lo han aceptado, pero aun que se está violentando la ley o se está acomodando, porque, como le digo, en el caso de Pompa Corella, el día que sale en el boletín, que tiene su categoría de aspirante a notario, ese mismo día en el mismo boletín la gobernadora publica, crea una notaría, casualmente la 113, y se la da el 21 de junio a él, pues dígame usted.",0.0,70,03,08,2021
+PREGUNTA, Así está en el boletín.,0.0,5,03,08,2021
+PREGUNTA," Así está en el boletín, boletín oficial del gobierno del Sonora.",0.0,11,03,08,2021
+PREGUNTA," ¿Se trataría de modificar la ley para que esto no siga ocurriendo, presidente?",0.0,13,03,08,2021
+PREGUNTA," Para que Durazo no llegue… Por ejemplo, la gobernadora llegó dándole una notaría a un panista, el primer…",0.0,18,03,08,2021
+PREGUNTA," Es una práctica terrible, corrupta.",0.0,5,03,08,2021
+PREGUNTA," Pero son comparsas, presidente.",0.0,4,03,08,2021
+PREGUNTA," Sobre los terrenos, que sería mañana la subasta, ¿usted haría algún…?, ¿platicaría con el gobernador electo para que esto se pueda revisar bien?",0.0,23,03,08,2021
+PREGUNTA," Muy bien, presidente. Gracias.",0.0,4,03,08,2021
+PREGUNTA," ¿Vienen gobernadores, presidente?",0.0,3,03,08,2021
+PREGUNTA, Sí.,0.0,1,03,08,2021
