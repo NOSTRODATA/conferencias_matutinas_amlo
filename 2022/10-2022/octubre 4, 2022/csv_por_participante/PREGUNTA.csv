@@ -1,0 +1,81 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," En el Campo Militar número 37, ‘General de división piloto aviador Alfredo Lezama Álvarez’, en Santa Lucía, Estado de México, en el que se localiza el Aeropuerto Internacional ‘Felipe Ángeles’, se encuentra un corredor cultural conformado por el Tren Presidencial Olivo, el Museo Militar de Aviación teniente piloto aviador José Espinosa Fuentes y el Museo Paleontológico Quinametzin.",0.0,57,04,10,2022
+PREGUNTA,"El Tren Presidencial Olivo fue gestionado por el presidente Plutarco Elías Calles en el año de 1927. Fue el medio de transporte para recorrer la república en los viajes de trabajo de los presidentes Plutarco Elías Calles, Emilio Portes Gil, Lázaro Cárdenas, Manuel Ávila Camacho, Miguel Alemán Valdés y Adolfo López Mateos, para lo cual usaron la red ferroviaria más extensa que alcanzó a tener este medio de transporte, en una etapa de desarrollo económico de nuestro país.",0.0,78,04,10,2022
+PREGUNTA,"En el año 2013 fueron restaurados los interiores de tres vagones, recuperando con ello su estado original, con una afluencia de 36 mil 802 visitantes a la fecha.",0.0,28,04,10,2022
+PREGUNTA,"El Museo Militar de Aviación ’Teniente piloto aviador José Espinosa Fuentes’’ pasó su revista de entrada el 1º de febrero de 2022 para rescatar, preservar y difundir la historia de la aviación del Ejército y Fuerza Aérea en México.",0.0,39,04,10,2022
+PREGUNTA,"Cuenta con la colección más granes de aeronaves a nivel nacional, su diseño simula un hangar con una torre de control didáctica, que está conformado por 12 salas temáticas de exhibición permanente, cuatro galerías temporales y dos salas de proyección, con una afluencia de 411 mil 184 visitantes a la fecha.",0.0,51,04,10,2022
+PREGUNTA,"El Museo Paleontológico de Santa Lucía Quinametzin entró en funciones el 1º de febrero de 2022 y está conformado por ocho salas de exposición, un área digital, una cafetería, tienda de suvenires y un espacio de juegos infantiles; asimismo, un acceso monumental, representación y esculturas de flora y fauna prehistórica.",0.0,50,04,10,2022
+PREGUNTA,"Este recinto cultural resguarda una colección paleontológica de aproximadamente 70 mil restos óseos prehistóricos, los cuales se encuentran en proceso de clasificación, restauración y conservación, con una afluencia de 452 mil 164 visitantes a la fecha.",0.0,36,04,10,2022
+PREGUNTA,"Estos tres proyectos son de gran trascendencia cultural y científica en México y América Latina por la gran labor que se está realizando para investigar, conservar, difundir y exponer la historia de nuestro país.",0.0,34,04,10,2022
+PREGUNTA," Con una inversión de más de 25 mil millones de pesos, el Gobierno de México, a través de la Secretaría de Infraestructura, Comunicaciones y Transportes, trabaja en la construcción de un ramal ferroviario para pasajeros entre Lechería y el Aeropuerto Internacional ‘Felipe Ángeles’.",0.0,43,04,10,2022
+PREGUNTA,Esta nueva ruta del Tren Suburbano agregará seis estaciones y una terminal que movilizará a 85 mil pasajeros adicionales a los 110 mil que ya lo usan diariamente.,0.0,28,04,10,2022
+PREGUNTA,"Para su operación, añadirá 10 trenes con capacidad de 700 pasajeros cada uno, los cuales recorrerán un trayecto de 42 kilómetros en 39 minutos sin necesidad de transbordar. Estos trenes funcionan mediante la obtención de energía eléctrica, lo que los hace amigables con el medio ambiente.",0.0,46,04,10,2022
+PREGUNTA,"Además de conectar a la Ciudad de México con la terminal aérea desde la estación Buenavista, brindará seguridad y comodidad a más de tres millones de habitantes de los municipios de Tultitlán, Tultepec, Nextlalpan, Zumpango, Tecámac y Ecatepec sin importar si hacen uso del aeropuerto.",0.0,45,04,10,2022
+PREGUNTA,"Cabe destacar que el AIFA será el primer aeropuerto en América Latina que contará con una terminal de Tren Suburbano en su interior, lo que facilitará una conexión rápida, cómoda y segura para los usuarios.",0.0,35,04,10,2022
+PREGUNTA,"Secretaría de Infraestructura, Comunicaciones y Transportes.",0.0,6,04,10,2022
+PREGUNTA," Gracias. Buenos días, presidente.",0.0,4,04,10,2022
+PREGUNTA,"Este domingo publicamos una investigación que realizamos de manera conjunta la Organización RTC, Animal Político, Proceso y Aristegui Noticias respecto a la siguiente información:",0.0,24,04,10,2022
+PREGUNTA,"Hay pruebas de que la Sedena en este sexenio compró un software para investigar, para espiar teléfonos, a la empresa, que es la única autorizada para vender Pegasus en México. Por lo tanto… Bueno y, además, presidente, también hay un… hay dos periodistas y un defensor de derechos humanos, cuyos teléfonos fueron infectados en los últimos tres años.",0.0,58,04,10,2022
+PREGUNTA,"La pregunta, presidente, es si sabía usted de esta compra que realizó la Sedena. ¿Y quién autorizó al Ejército para espiar?",0.0,21,04,10,2022
+PREGUNTA," Si me permite, presidente, le comento, las pruebas que efectivamente tenemos:",0.0,11,04,10,2022
+PREGUNTA,"La primera es que se confirma la infección de estos teléfonos a través de un análisis forense que realizó Citizen Lab, que es de la Universidad de Toronto, y que confirma la infección de Pegasus justamente cuando estas tres personas se encontraban investigando temas relacionados con violaciones a derechos humanos cometidos presuntamente por la Sedena.",0.0,55,04,10,2022
+PREGUNTA,"Punto número dos, la empresa NSO Group solamente vende el software a gobiernos, lo ha declarado en instancias judiciales en Estados Unidos y en el Parlamento Europeo, donde el director de la empresa asegura que este software solamente se vende a gobiernos para investigación de crimines atroces, de incluso terrorismo.",0.0,50,04,10,2022
+PREGUNTA,"Punto número tres, tenemos información de una carta en la que NSO Group nombra a una empresa llamada Comercializadora Antsua para ser la única representante para poder venderle ante Sedena este software.",0.0,32,04,10,2022
+PREGUNTA,"Luego, también tenemos otra información, que es un mail de la Sedena en este hackeo que hizo Guacamaya, donde se informa la compra de un software a esta empresa, a comercializadora Atsua, y este software es de monitoreo remoto. Se informa que el servicio se cumplió, que se pagó incluso.",0.0,50,04,10,2022
+PREGUNTA,"Y, por lo tanto, presidente, pues las pruebas digamos están ahí, o sea, la Sedena hace una compra a la empresa que está autorizada por el desarrollador de este software Pegasus.",0.0,31,04,10,2022
+PREGUNTA,"Por eso nuestra pregunta es: ¿usted sabía de esta compra en específico, que es monitoreo remoto y que significa espionaje, presidente?",0.0,21,04,10,2022
+PREGUNTA," Entonces, ¿las Fuerzas Armadas lo hizo sin informarle a usted?",0.0,10,04,10,2022
+PREGUNTA," ¿Aunque estén las pruebas, presidente?",0.0,5,04,10,2022
+PREGUNTA," De hecho, sí, ayer se interpuso una denuncia penal ante la fiscalía.",0.0,12,04,10,2022
+PREGUNTA," Presidente, bueno, nada más, también para aclarar a quienes nos estén viendo, en Animal Político publicamos en el sexenio pasado La estafa maestra y Las empresas fantasmas de Duarte, para que reconozcan qué medios somos.",0.0,35,04,10,2022
+PREGUNTA,"Por otra parte, presidente, en NSO Group, le comentaba, solamente vende este software a gobiernos. ¿Cómo explica entonces que se hayan espiado a estos civiles?, porque no hay, digamos, una investigación…",0.0,31,04,10,2022
+PREGUNTA," Presidente, nos dice que esperará justamente a que la fiscalía realice la investigación de esta denuncia; sin embargo, también ahí mencionarle que en 2017, pues como bien recuerda, se dio a conocer esto de Gobierno espía, donde también hubo espionaje a periodistas y defensores, se puso una denuncia y, sin embargo, estamos en 2022, tres años también de esta nueva administración, y no se ha avanzado en la investigación de los responsables. ¿Cómo creer, digamos, que esta fiscalía hará una investigación exhaustiva y adecuada?",0.0,84,04,10,2022
+PREGUNTA,"¿Usted no llamaría a cuentas, digamos, al Ejército para que nos explique de qué se trata, justamente, este contrato de monitoreo remoto comprado a la empresa que vende Pegasus?",0.0,29,04,10,2022
+PREGUNTA," Y también podemos entregarle las pruebas, presidente.",0.0,7,04,10,2022
+PREGUNTA," Él publicó un libro llamado Hijo de la guerra, donde entrevista y donde hace un relato del origen de Los Zetas y que la tesis que plantea es que fueron desertores del Ejército quienes conformaron esto.",0.0,36,04,10,2022
+PREGUNTA,"Además, Raymundo Ramos también, ha seguido a víctimas de violaciones a derechos humanos presuntamente cometidas por las Fuerzas Armadas; y el periodista de Animal Político también se encontraba investigando algo relacionado a delitos igualmente presuntamente cometidos…",0.0,36,04,10,2022
+PREGUNTA, ¿De dónde cree que vienen?,0.0,5,04,10,2022
+PREGUNTA," Sí, gracias, presidente. A nosotros nos pareció gravísimo el tema del espionaje, por eso justamente es que lo trajimos a este espacio. Lamento que no le guste el trabajo de los periodistas en este país, pero de esto que publicamos y de todo…",0.0,43,04,10,2022
+PREGUNTA, De todo lo que publicamos tenemos pruebas que con muchísimo gusto le vamos a compartir. En Animal Político trabajamos para las y los lectores.,0.0,24,04,10,2022
+PREGUNTA,Muchísimas gracias por el espacio y estamos al pendiente de lo que llame a rendir cuentas de la Sedena respecto a este tema.,0.0,23,04,10,2022
+PREGUNTA, Le entregamos las pruebas presidente. Muchas gracias.,0.0,7,04,10,2022
+PREGUNTA, ¿Podría venir el secretario a informar?,0.0,6,04,10,2022
+PREGUNTA," (Inaudible) se tienen vínculos con el cártel del Noreste, en Nuevo Laredo, me consta, yo soy de Nuevo Laredo.",0.0,19,04,10,2022
+PREGUNTA," Raymundo Ramos, el supuesto defensor de derechos humanos, me consta, soy de Nuevo Laredo, conozco su trayectoria y sí tiene vínculos muy fuertes, y últimamente ha andado muy activo en contra del Ejército por el caso de la niña pequeña que murió a consecuencia…",0.0,44,04,10,2022
+PREGUNTA, Se sabe en Tamaulipas que sí tiene vínculos y es su modus operandi.,0.0,13,04,10,2022
+PREGUNTA, Con el cártel de Noreste.,0.0,5,04,10,2022
+PREGUNTA," Buen día, señor presidente, señores funcionarios.",0.0,6,04,10,2022
+PREGUNTA,"Carlos Montesinos, de Reporte Índigo.",0.0,5,04,10,2022
+PREGUNTA,"Como menciona, usted ha dicho en repetidas ocasiones que este caso de los hackeos no están relevante porque todo está transparentado, todo es de dominio público; sin embargo, hay casos, por ejemplo, como el que planteamos hoy, como el del Tren Maya, donde hay alrededor de 127 órdenes del Instituto Nacional de Transparencia en torno al Tren Maya para dar a conocer casos de, por ejemplo, de licitaciones, adjudicaciones, contratos, permisos ambientales, etcétera.",0.0,73,04,10,2022
+PREGUNTA,"Y preguntarle si, aprovechando esta coyuntura, de esto que está sucediendo en este momento, aprovecharía para transparentar toda esta información que se está solicitando, no sólo del Tren Maya, sino del resto de las obras: la refinería, el aeropuerto que hoy estábamos hablando y demás obras que están.",0.0,48,04,10,2022
+PREGUNTA," Ha habido sobre 120 mil solicitudes de información en cuanto al Tren Maya, y sigue habiendo algunas que no se responden por temas, responden, por temas de seguridad nacional y demás que no se atienden.",0.0,35,04,10,2022
+PREGUNTA," Entonces, ¿se podría quitar este candado por tema de seguridad nacional?",0.0,11,04,10,2022
+PREGUNTA, En el Zócalo.,0.0,3,04,10,2022
+PREGUNTA," Nada más para concretar, entonces, ¿podría emitir, no sé, algún decreto, una instrucción para que las dependencias encargadas…?",0.0,18,04,10,2022
+PREGUNTA," Es que siguen llegando estas respuestas por temas de seguridad nacional, clasificado, etcétera. Para que deje de ocurrir este candado.",0.0,20,04,10,2022
+PREGUNTA," Una segunda pregunta, señor presidente. Este fin de semana, el domingo, se realizó la marcha del 2 de octubre y el Comité del 68 hizo un llamado, una demanda a sacar al Ejército de las calles, a no continuar con este proceso. Y pues si nos pudiera algún posicionamiento respecto a esta petición que hace el Comité del 68.",0.0,59,04,10,2022
+PREGUNTA," Buenos días, presidente, funcionarios, compañeros.",0.0,5,04,10,2022
+PREGUNTA,"Soy Blanca Aguirre, de La Octava.",0.0,6,04,10,2022
+PREGUNTA,"Preguntarle, presidente, bueno, a inicios del mes de agosto usted se reunió aquí en Palacio Nacional con Katya Echazarreta, la primera mujer mexicana en visitar el espacio exterior. Saber si desde su gobierno se tienen planeados proyectos con ella desde la Agencia Espacial Mexicana. ¿Qué se desprende de esta reunión? Por favor, presidente.",0.0,53,04,10,2022
+PREGUNTA," Gracias, presidente.",0.0,2,04,10,2022
+PREGUNTA,"Y en una segunda pregunta, ayer se desprende la información de que la Secretaría de la Defensa Nacional planea crear una aerolínea, que esta, bueno, sería del Estado y brindaría servicio de transporte de pasajeros con 10 aeronaves, incluidas también el avión presidencial.",0.0,43,04,10,2022
+PREGUNTA,"Y también, hablado del avión presidencial, pues vimos el viernes que salió a Victorville, en California. Saber cuánto tiempo estará allá, por favor.",0.0,23,04,10,2022
+PREGUNTA,Muchas gracias.,0.0,2,04,10,2022
+PREGUNTA," Se desprende de Guacamayaleaks, del hackeo.",0.0,6,04,10,2022
+PREGUNTA," Sí, del hackeo.",0.0,3,04,10,2022
+PREGUNTA, ¿Para cuándo sería esto?,0.0,4,04,10,2022
+PREGUNTA," ¿Se contempla el avión presidencial, también?",0.0,6,04,10,2022
+PREGUNTA, (Inaudible),0.0,1,04,10,2022
+PREGUNTA, ¿Cómo se llamaría?,0.0,3,04,10,2022
+PREGUNTA," Perfecto, sería todo, presidente. Gracias.",0.0,5,04,10,2022
+PREGUNTA, (inaudible) los trabajadores.,0.0,3,04,10,2022
+PREGUNTA," (Inaudible) las rutas de Mexicana, que ya no ocupan.",0.0,9,04,10,2022
+PREGUNTA, Y las que ya se operan eran rutas de Mexicana.,0.0,10,04,10,2022
+PREGUNTA," (Inaudible) muy bien al tema, ¿eh?",0.0,6,04,10,2022
+PREGUNTA, ¿El avión presidencial sería rentable para…?,0.0,6,04,10,2022
+PREGUNTA, (inaudible),0.0,1,04,10,2022
+PREGUNTA, (inaudible),0.0,1,04,10,2022
+PREGUNTA, (inaudible),0.0,1,04,10,2022
+PREGUNTA," ¿A dónde va el fin de semana, presidente?",0.0,8,04,10,2022
+PREGUNTA," ¿Con quién se reúne, presidente?",0.0,5,04,10,2022
+PREGUNTA, Hoy.,0.0,1,04,10,2022
