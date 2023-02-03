@@ -1,0 +1,66 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA, En medios de comunicación y redes sociales se lanzó una campaña de desinformación y mentiras en contra del desempeño económico de México.,0.0,22,04,01,2023
+PREGUNTA,"Uno. Falso que la estabilidad del peso frente al dólar dañe el crecimiento económico de México y merma la generación de empleos bien remunerados. El producto interno de México en el tercer trimestre de 2022 aumentó 0.9 por ciento respecto al trimestre anterior, porcentaje superior al que presentaron potencias como Reino Unido, que tuvo un decrecimiento del 0.2 por ciento; Estados Unidos, que creció 0.6 por ciento; y Canadá, que aumentó 0.7 por ciento.",0.0,74,04,01,2023
+PREGUNTA,"Además, en diciembre de 2022 hubo 21 millones 462 mil 967 trabajadores registrados en el IMSS, lo que representa un récord histórico, al igual que el salario promedio mensual de esto, que en diciembre de 2022 fue de 14 mil 768 pesos.",0.0,42,04,01,2023
+PREGUNTA,"La fortaleza del peso frente al dólar tampoco afectó la inversión extranjera directa, la cual alcanzó un récord máximo histórico en 2022 de 32 mil 147 millones de dólares.",0.0,29,04,01,2023
+PREGUNTA,"Dos. Falso que el Gobierno de México no hizo nada para evitar la inflación. En octubre de 2022 el Gobierno de México lanzó el Paquete Contra la Inflación y la Carestía, PACIC, para contener el aumento de los precios de los productos de la canasta básica.",0.0,46,04,01,2023
+PREGUNTA,"El 8 de diciembre de 2022, José Medina Icaza, presidente de la Confederación Patronal de la República Mexicana, Coparmex, aseguró que el plan antiinflacionario del Gobierno de México evitó una inflación superior al 10 por ciento. Además, los precios de los 24 artículos de la canasta básica, en su mayoría, se han mantenido por debajo de los mil 38 pesos.",0.0,60,04,01,2023
+PREGUNTA,"Tres. Falso que el aumento al salario mínimo causó inflación. En 2022 la inflación aumentó en todo el mundo, principalmente por la guerra entre Rusia y Ucrania, que generó aumento en los precios de los combustibles y volatilidad cambiaria.",0.0,39,04,01,2023
+PREGUNTA,"En noviembre de 2022 México tuvo 7.8 por ciento de inflación, mientras que Alemania tuvo 10 por ciento, Reino Unido 10.7 por ciento, Colombia 12.5 por ciento y Chile 13.3 por ciento.",0.0,32,04,01,2023
+PREGUNTA,"Cuatro. Falso que el salario mínimo perdió su poder adquisitivo. Comparado con 2018, el poder adquisitivo del salario mínimo en 2023 aumentó un 90 por ciento, en 2018 el salario mínimo alcanzaba para comprar 3.1 kilos de frijol, 3.2 kilos de huevo y 6.5 kilos de tortilla, mientras que en 2022 con el salario mínimo se podía comprar 5.2 kilos de frijol, 4.7 kilos de huevo y 10.2 kilos de tortilla.",0.0,71,04,01,2023
+PREGUNTA,"Cinco. Otra mentira que se repitió a lo largo de 2022 y durante lo que va del actual Gobierno de México es que las gasolinas han aumentado de precio, lo que es falso. La gasolina Magna hasta noviembre de 2022 había disminuido 6.8 por ciento con respecto al inicio del sexenio, la gasolina Premium disminuyó 4.5 por ciento respecto al mismo periodo y el diésel disminuyó 6.2 por ciento.",0.0,69,04,01,2023
+PREGUNTA,Infodemia.,0.0,1,04,01,2023
+PREGUNTA," Para alcanzar la seguridad y soberanía alimentaria, el Gobierno de México fomenta la producción de alimentos básicos con la entrega de fertilizantes gratuitos a las y los productores de pequeña escala.",0.0,31,04,01,2023
+PREGUNTA,"Por ello, en 2019 inició el Programa Fertilizantes para el Bienestar en Guerrero, con la distribución de insumos para producir esencialmente maíz, frijol y arroz.",0.0,25,04,01,2023
+PREGUNTA,"Al cierre de 2022, los fertilizantes llegaron de manera directa y sin intermediarios a productores de nueve estados, beneficiando a más de 823 mil agricultores.",0.0,25,04,01,2023
+PREGUNTA,A través de los bienes y servicios públicos fomentamos que las y los productores incluyan prácticas más sostenibles mediante los seminarios técnicos virtuales.,0.0,23,04,01,2023
+PREGUNTA, Este 2023 continuamos trabajando coordinadamente con el objetivo de llevar los fertilizantes a las y los productores de las zonas estratégicas de todo el país para que el campo no se detenga y brindemos bienestar a las familias que alimentan a México.,0.0,42,04,01,2023
+PREGUNTA, Conoce más en gob.mx/agricultura,0.0,4,04,01,2023
+PREGUNTA," Presidente, buenos días.",0.0,3,04,01,2023
+PREGUNTA,"Mara Rivera, de Enfoque Noticias.",0.0,5,04,01,2023
+PREGUNTA,"Yo quisiera preguntarle sobre este mensaje que le envió ayer la defensa de Emilio Lozoya, en el caso de Agronitrogenados, en el sentido de que están dispuestos a dar la reparación del daño, se dice de 3.4 millones de dólares, y que la audiencia fue diferida hasta el 16 de febrero para ver si Petróleos Mexicanos aceptaría este acuerdo. ¿Alguna opinión al respecto, presidente?",0.0,64,04,01,2023
+PREGUNTA, 3.4 millones de dólares.,0.0,4,04,01,2023
+PREGUNTA, 3.4 millones de dólares.,0.0,4,04,01,2023
+PREGUNTA," La segunda pregunta, presidente, tiene que ver también con Pemex. Se dice que Hacienda estaría negociando en este momento con Petróleos Mexicanos, que por lo menos para el primer trimestre del año pague por sí sola su deuda, la deuda que tiene. Y que, aunque en realidad Pemex solamente salvo que pudiera argumentarse que no tiene suficiente efectivo para hacer frente a estas deudas, podría haberse… Se habla de una deuda de 105 mil millones de dólares a septiembre del 22.",0.0,81,04,01,2023
+PREGUNTA,¿Esta posibilidad de que el gobierno no entrara nuevamente a su rescate puede darse? ¿Hay condiciones? ¿Han mejorado las finanzas de Petróleos Mexicanos para hacer frente de su propia deuda o el gobierno tendría que volver a intervenir?,0.0,38,04,01,2023
+PREGUNTA,"Y también, nada más, por último, un comentario respecto a este estudio del Fondo Monetario Internacional en el sentido de que ven una recesión mundial, dado que 25 países podrían verse en situación recesiva difícil. No se incluye a Estados Unidos importantemente porque estamos ligados económicamente a ellos. Esto podría a lo mejor salvar de una situación crítica, a diferencia de otras 25 naciones que sí se verán muy afectadas este año, incluso a lo mejor considerando que, por ejemplo, ayer el peso mexicano fue la única moneda que la libró el día de ayer de esta turbulencia y de una depreciación.",0.0,102,04,01,2023
+PREGUNTA,"Entonces, ¿qué panorama ve respecto a este análisis que hace el Fondo Monetario Internacional?, y también si hay posibilidades de que Pemex pague en el primer trimestre su deuda, presidente.",0.0,30,04,01,2023
+PREGUNTA, 19.27.,0.0,1,04,01,2023
+PREGUNTA, Alazraki.,0.0,1,04,01,2023
+PREGUNTA, Ricardo Alemán.,0.0,2,04,01,2023
+PREGUNTA," Entonces, ¿es incorrecta la apreciación de que Pemex es la petrolera más endeudada?",0.0,13,04,01,2023
+PREGUNTA, Ni en Estados Unidos.,0.0,4,04,01,2023
+PREGUNTA, Presidente…,0.0,1,04,01,2023
+PREGUNTA, Sí.,0.0,1,04,01,2023
+PREGUNTA," Hola, presidente, buenos días.",0.0,4,04,01,2023
+PREGUNTA,"César Huerta, de la revista Polemón.",0.0,6,04,01,2023
+PREGUNTA,"Hace unos días publicamos una investigación sobre Guillermo Sheridan, en Polemón. Descubrimos, detectamos que lleva más de 15 años sin dar clases en la UNAM y que cada año, desde hace más de 20, ha pedido licencias, años sabáticos, y lo ha hecho de forma irregular al estatuto del personal académico de la UNAM.",0.0,54,04,01,2023
+PREGUNTA,"¿Qué piensa, presidente, de que personajes como Guillermo Sheridan ahora ya dan clases de ética, cuando tienen una cola muy larga que les pisen? ¿Qué piensa sobre esto?",0.0,28,04,01,2023
+PREGUNTA," Gracias, presidente.",0.0,2,04,01,2023
+PREGUNTA,"Y en otro tema, desde que la ministra Norma Piña fue elegida como ministra presidenta de la Suprema Corte de Justicia personajes como Carlos Loret han dicho, y opinadores de la comentocracia, han dicho que es el ocaso de usted como presidente.",0.0,42,04,01,2023
+PREGUNTA,"Hoy Ricardo Rocha incluso dice que, titula su texto en El Universal como: ‘Yasmín, la derrota política de AMLO’.",0.0,19,04,01,2023
+PREGUNTA,"¿Usted qué opina de ese nado sincronizado de los opinadores?, que en lugar de festejar que hay independencia en el Poder Judicial y que la ministra rompió el techo de cristal y ahora es la primera mujer en el cargo, se lanza contra usted, presidente, diciendo que está en la lona y que es el fin de su mandato.",0.0,59,04,01,2023
+PREGUNTA, ¿Quiénes son las personas que tienes aquí secuestradas?,0.0,8,04,01,2023
+PREGUNTA, ¿Le duele algo?,0.0,3,04,01,2023
+PREGUNTA, ¿Qué le duele?,0.0,3,04,01,2023
+PREGUNTA," Buenos días, señor presidente.",0.0,4,04,01,2023
+PREGUNTA,"Norma Ramírez, del corporativo Imagen del Golfo, que publica el Diario del Istmo y el periódico Imagen, de Veracruz.",0.0,19,04,01,2023
+PREGUNTA,"Señor presidente, con respecto a la basificación de los trabajadores transitorios de Pemex que inicio este año, ¿tiene el reporte de cuántas plazas se han otorgado hasta el momento?, ¿cuánto representará esto para la empresa al incrementar la nómina?",0.0,39,04,01,2023
+PREGUNTA,"Además, como usted sabe, presidente, hay trabajadores con muchos años de servicio y con edad avanzada, como el caso de don Arturo Marín Alvarado, que a sus 88 años de edad y 27 años como trabajador transitorio logró la base.",0.0,40,04,01,2023
+PREGUNTA,¿Qué pasará en los casos de trabajadores que ya son adultos mayores? ¿Se les jubilará una vez que tengan su plaza?,0.0,21,04,01,2023
+PREGUNTA,¿O sabe usted cuál ha sido el papel del Sindicato de Petróleos Mexicanos luego del llamado a los dirigentes sindicales a no ser un obstáculo en la basificiación de los trabajadores transitorios de Pemex con mayor antigüedad?,0.0,37,04,01,2023
+PREGUNTA," Presidente, en otro tema relacionado también con Pemex, durante el 2022 se suscitaron tres accidentes aéreos de helicópteros de empresas contratistas al servicio de la paraestatal, dos de ellos ocurrieron en la sonda de Campeche.",0.0,35,04,01,2023
+PREGUNTA,"En el último de estos murieron dos pilotos al realizar un vuelo nocturno sin salir una emergencia justificada en este tipo de vuelos. De acuerdo a denuncias anónimas, se señalan desde hace muchos años diversas anomalías como sobrepeso en las aeronaves, pilotos excedidos en horas de vuelo y sin capacitación adecuada para realizar vuelos de alto riesgo, entre otras, que ponen en riesgo la seguridad de pilotos y pasajeros.",0.0,69,04,01,2023
+PREGUNTA,"Ante estas irregularidades, pilotos que operan en la sonda de Campeche piden se investiguen quién solicitó el vuelo y quién lo autorizó.",0.0,22,04,01,2023
+PREGUNTA,"Mis preguntas son las siguientes, señor presidente:",0.0,7,04,01,2023
+PREGUNTA,"¿Ya se ha realizado alguna investigación o auditoría que señale si hubo negligencia de parte de Pemex y sus contratistas?, estos tienen este percance aéreo.",0.0,25,04,01,2023
+PREGUNTA,¿Se ha sancionado a las compañías? ¿Se cancelarán los contratos con estas?,0.0,12,04,01,2023
+PREGUNTA,"¿Y por qué no solicitar los servicios de Seneam, al ser del Estado, en lugar de beneficiar a contratistas en plena era de la austeridad?",0.0,25,04,01,2023
+PREGUNTA," Bueno, por último, finalmente, en el seguimiento al tema del conflicto inmobiliario de Puerto Vallarta, informarle, señor presidente que la oficina de la Asociación de Conchas Chinas que ha venido denunciando la construcción ilegal fue robada este fin de semana.",0.0,40,04,01,2023
+PREGUNTA,"Los ladrones entraron llevándose computadoras y archivos entre otros objetos. A pesar de que se presentó la denuncia correspondiente, la policía local no ha presentado la atención necesaria, por lo que los colonos le solicitan, señor presidente, su intervención ya que es la propia Profepa quien está obstaculizando el acceso a la justicia al no imponer las sanciones correspondientes por falta de manifiesto de impacto ambiental. Y los colonos temen que continúen las agresiones hacia ellos.",0.0,76,04,01,2023
+PREGUNTA,Gracias.,0.0,1,04,01,2023
+PREGUNTA, Sobre la Cumbre.,0.0,3,04,01,2023
+PREGUNTA, ¿Va a llegar al AICM el presidente Biden?,0.0,8,04,01,2023
+PREGUNTA, ¿Ya le contestó Biden?,0.0,4,04,01,2023
+PREGUNTA, Grease.,0.0,1,04,01,2023
+PREGUNTA, ¿De qué hablaron con el embajador?,0.0,6,04,01,2023
