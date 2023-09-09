@@ -1,0 +1,100 @@
+Participante,Texto,Sentimiento,Palabras,Dia,Mes,Anio
+PREGUNTA," Cuatro aviones de mentiras contra Mexicana de Aviación. Tras el anuncio de que Mexicana de Aviación comenzaría a volar como la nueva aerolínea del Estado, comentaristas y políticos despegaron en cuatro aviones de mentiras.",0.0,34,16,08,2023
+PREGUNTA,"Uno. Falso que Mexicana de Aviación no tenga un plan de negocios. El secretario de la Defensa, Luis Cresencio Sandoval, presentó el 10 de agosto el plan de negocios de la aerolínea, que incluye por cuatro mil millones de pesos la renta de 10 aviones Boeing 737, el mantenimiento de las aeronaves, la tripulación de éstas y el personal encargado del manejo de la aerolínea en tierra, así como el certificado de operador aéreo y la asesoría de la empresa Boeing sobre los elementos a implementarse.",0.0,86,16,08,2023
+PREGUNTA,"Dos. La nueva aerolínea mexicana será una línea aérea civil. En redes sociales diversos comentaristas afirmaron que Mexicana de Aviación sería una aerolínea militar; sin embargo, la Sedena sólo administrará la empresa encargada de la aerolínea, pues el modelo de negocios con Boeing incluye la tripulación de las aeronaves y el personal en tierra, los cuales serán civiles. Además, Luis Cresencio Sandoval informó que, a la fecha, la aerolínea del Estado mexicano ha creado 209 empleos civiles directos y empleará a 745 personas al momento de iniciar operaciones.",0.0,88,16,08,2023
+PREGUNTA,"Tres. Falso que los precios de los boletos de Mexicana de Aviación serán subsidiados. El 10 de agosto el presidente López Obrador y el titular de la Sedena, Luis Cresencio Sandoval, informaron que los costos de los boletos de Mexicana de Aviación tendrán un costo inferior entre el 18 y el 20 por ciento en comparación con las otras aerolíneas, y explicaron que el ahorro no se deberá a un subsidio al precio de los boletos, sino a toda la infraestructura que el actual gobierno ha construido en beneficio de los usuarios. Además, la nueva aerolínea no tendrá afán de lucro, sino de servicio al público.",0.0,106,16,08,2023
+PREGUNTA,"Cuatro. Falso que Mexicana de Aviación no ofrecerá nuevas rutas aéreas. En la presentación del plan de negocios de la aerolínea del Estado mexicano se informó que Mexicana de Aviación comenzará a volar desde el AIFA a 20 destinos en diciembre de 2023 y en un segundo momento inaugurará 16 nuevas rutas, por lo que se prevé que a finales del 2024 volará a 36 destinos.",0.0,66,16,08,2023
+PREGUNTA,Infodemia.,0.0,1,16,08,2023
+PREGUNTA," Buen día, presidente.",0.0,3,16,08,2023
+PREGUNTA,"Carlos Domínguez, de…",0.0,3,16,08,2023
+PREGUNTA, La tarea de… (inaudible),0.0,4,16,08,2023
+PREGUNTA," Gracias, presidente.",0.0,2,16,08,2023
+PREGUNTA,"Ayer estuve haciendo un recuento acerca, no solamente del gasto electoral de México y el comparativo con otros países, sino más bien eso tiene que ver con el sistema electoral de cada país, es muy diferente y no son equiparables.",0.0,40,16,08,2023
+PREGUNTA,"Después de estar revisando no hay manera de hacer una comparativa en la que sea exactamente igual el gasto que se ejerce junto con el aparato electoral, porque el INE tiene la particularidad de que es de una permanencia; no es un organismo que se esté conformando previo a una elección, sino que tiene una vida permanente.",0.0,57,16,08,2023
+PREGUNTA,"Dicho esto, los sistemas electorales —de acuerdo con lo somero que pude hacer ayer este trabajo, es como en las redacciones, que nos dicen: ‘este trabajo es para ayer’, así fue—, tomé en cuenta el presupuesto que se ejerce en cada país para el órgano electoral correspondiente, en año electoral. Porque lo que estábamos aquí viendo ayer es que el presupuesto que se presentó, la propuesta de presupuesto del INE es para el próximo año, que será año electoral, presidencial; no de medio término o de elecciones legislativas, sino presidenciales.",0.0,90,16,08,2023
+PREGUNTA,"Y en cada país se dividió el presupuesto asignado. No entra el número de población ni por cada 100 mil habitantes, sino por el listado nominal de cada país, porque, como en el caso de México, el listado nominal son las personas de 18 o más, el INE no hace una tarea específica para los menores de 18 años; hay una votación, sí, pero es una votación espejo, pequeña.",0.0,69,16,08,2023
+PREGUNTA,Y en los países donde hay segunda vuelta hay una reserva de recursos para llevar a cabo la segunda vuelta. En América Latina hay varios países donde se lleva a cabo esto y en otros países con otro tipo de regímenes de gobierno diferentes al de México.,0.0,47,16,08,2023
+PREGUNTA,"Y en los sistemas parlamentarios tampoco se lleva a cabo la elección de un presidente o un primer ministro, directa, que en casos como el de México es el que despierta mucho interés y hace que haya elecciones copiosas como la de 2018.",0.0,43,16,08,2023
+PREGUNTA,"Y en los Estados Unidos tampoco es equiparable porque cada estado es independiente, tiene un órgano electoral y no hay organismo similar al INE.",0.0,24,16,08,2023
+PREGUNTA,"Dicho todo esto, México no es el país gasta más en elecciones, al menos en América Latina:",0.0,17,16,08,2023
+PREGUNTA,"Panamá gasta 28.03 dólares por cada elector, por cada persona inscrita en el padrón electoral.",0.0,15,16,08,2023
+PREGUNTA,En Costa Rica son 20 dólares con tres centavos.,0.0,9,16,08,2023
+PREGUNTA,"En México son 14 dólares con cuatro centavos, tomando en cuenta el número de inscritos en el listado nominal de ayer, todavía, porque este número se actualiza diariamente.",0.0,28,16,08,2023
+PREGUNTA,En Uruguay son 12 dólares con 54 centavos.,0.0,8,16,08,2023
+PREGUNTA,"Y así nos podemos ir. Honduras, 11.8.",0.0,7,16,08,2023
+PREGUNTA,"En Chile, 8.9. Y este es un caso muy particular, porque en Chile entiendo que sí es obligatorio ir a votar, no es voluntario como en México, donde se tienen cifras, 60 por ciento, 66, en una elección presidencial. Pero en Chile sí son altos y eso reduce también el costo del voto porque van obligados a votar.",0.0,58,16,08,2023
+PREGUNTA,"En Ecuador, 8.8.",0.0,3,16,08,2023
+PREGUNTA,"Perú, 6.8.",0.0,2,16,08,2023
+PREGUNTA,"Bolivia, 6.09.",0.0,2,16,08,2023
+PREGUNTA,"Colombia, 8.3.",0.0,2,16,08,2023
+PREGUNTA,"Nicaragua, 5.08.",0.0,2,16,08,2023
+PREGUNTA,"En Brasil, ahí es la cifra de electores más grande del continente, con cinco dólares con 40 centavos. Ahí la particularidad es que la cantidad de urnas electrónicas que se utilizan es muy grande y reduce el costo, que entiendo que es algo que se intentará hacer en algún momento en el INE en el futuro.",0.0,56,16,08,2023
+PREGUNTA,"Argentina, 4.6.",0.0,2,16,08,2023
+PREGUNTA,"Guatemala, 4.6 dólares.",0.0,3,16,08,2023
+PREGUNTA,"Paraguay, 1.09.",0.0,2,16,08,2023
+PREGUNTA,"En España cada voto cuesta 5.8 euros. Ha habido una elección reciente, había un dato más fresco.",0.0,17,16,08,2023
+PREGUNTA,"En Estados Unidos, 11.4 dólares por cada voto, por las particularidades que decía.",0.0,13,16,08,2023
+PREGUNTA,Y en países donde de plano rebasa cualquier intento de comprensión de lo que nosotros conocemos como una elección:,0.0,19,16,08,2023
+PREGUNTA,"En India hay 911 millones de electores, no hay manera, es increíble la cantidad de recursos que se destina ahí.",0.0,20,16,08,2023
+PREGUNTA,"En Rusia, 110 millones, pero es un caso muy particular.",0.0,10,16,08,2023
+PREGUNTA,"Japón, 58.9 dólares por cada voto.",0.0,6,16,08,2023
+PREGUNTA,"En Francia, 48.7 euros.",0.0,4,16,08,2023
+PREGUNTA,Y en Inglaterra dan 32 libras por cada voto que se emite.,0.0,12,16,08,2023
+PREGUNTA, ¿Qué piensa ahora del presupuesto?,0.0,5,16,08,2023
+PREGUNTA, ¿Qué piensa ahora del presupuesto?,0.0,5,16,08,2023
+PREGUNTA," ¿Consideraría, entonces, excesivo el presupuesto?",0.0,5,16,08,2023
+PREGUNTA, ¿Cuánto?,0.0,1,16,08,2023
+PREGUNTA," ¿A qué se destinaria, presidente?",0.0,5,16,08,2023
+PREGUNTA, Pero ¿se necesitaría una revisión del presupuesto para bajarlo?,0.0,9,16,08,2023
+PREGUNTA," Buenos días, señor presidente.",0.0,4,16,08,2023
+PREGUNTA,"Carlos Domínguez, de Nación 14.",0.0,5,16,08,2023
+PREGUNTA,"Presidente, en México cada vez son más los municipios que se ven obligados a solicitar la declaratoria de emergencia por falta de agua y sus deficientes sistemas para la captación y distribución de la misma. A esto se suma la carencia de recursos municipales y hasta estatales para hacerles frente a estas crisis, además de que a veces ni el gobierno federal le quiere entrar al quite, y si lo hace no siempre es con la velocidad que requiere la emergencia.",0.0,81,16,08,2023
+PREGUNTA,"En Nación 14 llevamos ya varios meses insistiendo en este tema y estudiando el fenómeno de la escasez de agua en las diferentes regiones del país, y descubrimos que la raíz de este mal tiene un origen y, como casi todos los problemas en México, es la corrupción de administraciones pasadas y de algunas que aún siguen vigentes, sobre todo en las entidades.",0.0,63,16,08,2023
+PREGUNTA,"También, descubrimos que hay municipios y estados que ya cuentan con proyectos y estudios de la más alta calidad para resolver el problema en el corto y mediano plazo, pero, como siempre, la falta de recurso es el principal problema que les impide salir de estas crisis. Estos municipios y estados se ven imposibilitados también para acceder a estos recursos de bancos internacionales y locales, como el BID y otros, debido a que la Secretaría de Hacienda no coopera para acompañar en la gestión cómo lo marca la ley vigente en el país.",0.0,93,16,08,2023
+PREGUNTA,"Preguntarle si estaría de acuerdo en que su gobierno, en este caso la Secretaría de Hacienda, coopere y acompañe a los municipios y las entidades federativas que cuenten con finanzas sanas y proyectos de la más alta calidad para acceder a estos recursos de bancos internacionales y locales para poder desarrollar sus proyectos hidráulicos que les ayuden a salir de las crisis que padecen, presidente.",0.0,65,16,08,2023
+PREGUNTA," Gracias, presidente.",0.0,2,16,08,2023
+PREGUNTA,"Con respecto a los proyectos para la atención de la crisis en San Luis Potosí, hemos estado monitoreando, porque le trajimos aquí el tema y no hemos visto que comiencen las obras para la adecuación de la malla de la presa ‘El Realito’ y que tampoco la empresa que es dueña de la concesión del ducto esté realizando ninguna obra para la adecuación de este ducto.",0.0,66,16,08,2023
+PREGUNTA,"Hoy en día la presa no tiene la suficiente. Bueno, tiene un poco porque llovió y bajó un poco de agua, pero el ducto no sirve, está roto, no está llevando agua, el agua se está sacando de pozos con pipas para la zona conurbada de la capital.",0.0,48,16,08,2023
+PREGUNTA,"No se está haciendo nada, presidente, pese a que aquí hace unos meses el titular de la Conagua anunció que ya había un proyecto para la adecuación de la malla y a un compromiso de la concesionaria del ducto. Y no está sucediendo absolutamente nada y la crisis continúa aumentando.",0.0,50,16,08,2023
+PREGUNTA,"Ya vinieron las autoridades de San Luis Potosí capital a solicitar la declaratoria de emergencia y se les negó, pese a que existe una crisis. Y no están haciendo nada, incluso no están dejándolos acceder a estos préstamos para que ellos con recurso de banco internacionales puedan llevar a cabo las obras que les ayuden a tener la infraestructura que ocupan, porque la ciudad sigue creciendo, la demanda sigue aumentando y no les está llegando agua. Hay un estancamiento en cuanto al flujo de agua y no se está viendo absolutamente nada. Nosotros hemos estado monitoreando; no vemos absolutamente nada, presidente.",0.0,101,16,08,2023
+PREGUNTA,¿Qué nos puede decir?,0.0,4,16,08,2023
+PREGUNTA, ¿Y se puede aquí dar a conocer?,0.0,7,16,08,2023
+PREGUNTA," ¿Lo daría a conocer aquí en la conferencia, presidente? Para que se enteren allá, porque no se sabe nada.",0.0,19,16,08,2023
+PREGUNTA," Sí, se habló de un proyecto que ya existía, un plan, pero no se está haciendo nada todavía.",0.0,18,16,08,2023
+PREGUNTA," Y sobre las obras, presidente, que se anunció el año pasado para Tamaulipas, las obras federales, ¿cómo van estas obras, presidente? El muelle en el norte, en Matamoros, las obras en la zona conurbada en el sur, ¿cómo vamos?",0.0,39,16,08,2023
+PREGUNTA," Presidente, ¿qué opina de que el exgobernador de Tamaulipas va a coordinar el tema de la seguridad para el frente opositor?",0.0,21,16,08,2023
+PREGUNTA," Presidente, buenos días. Soy su servidor Carlos Pozos, reportero de Lord Molécula Oficial…",0.0,13,16,08,2023
+PREGUNTA," García Cabeza de Vaca va a coordinar el tema de seguridad para el frente opositor del Frente Amplio, él va a ser el encargado de ese proyecto, lo va a coordinar.",0.0,31,16,08,2023
+PREGUNTA," Presidente de todos los mexicanos, su servidor Carlos Pozos, reportero de Lord Molécula Oficial. Muy buenos días a quienes nos ven y a quienes nos escuchan.",0.0,26,16,08,2023
+PREGUNTA,"Pues aquí se ha dicho que la prensa se regula con la prensa. Esta pregunta se la hago con la actividad, con mi trayectoria de trabajo de 43 años en el ejercicio periodístico, y le comento, señor presidente, que Joaquín López-Dóriga en la administración de José López Portillo y el general Félix Galván; Ricardo Riva Palacio, en los tiempos de Carlos Salinas de Gortari y el general Antonio Riviello Bazán; José Cárdenas y Rafael Cardona, con Miguel de la Madrid Hurtado y el general Juan Arévalo Gardoqui; Ciro Gómez Leyva, en la administración de Felipe Calderón y el general Guillermo Galván Galván; todos ellos, presidente, nunca se atrevieron a criticar tan ácidamente al Ejército Mexicano de sus tiempos, porque sabían bien a las consecuencias inmediatas que se atenían.",0.0,128,16,08,2023
+PREGUNTA,"A 16 días de su quinto informe de gobierno, señor presidente, y con la participación de las Fuerzas Armadas, garantes de la paz y la salvaguardia de nuestras instituciones republicanas y su trabajo, pues ha sido criticado ácidamente por estos conservadores y estos voceros, siendo que el Ejército Mexicano nació para la defensa de la democracia y del régimen constitucional.",0.0,60,16,08,2023
+PREGUNTA,"Todo esto me lleva a preguntarle, presidente: a 16 días de su quinto informe de gobierno, ¿cuál es su reflexión sobre el trabajo realizado por su Gabinete Legal y Ampliado, pero sobre todo la labor realizada por el almirante de la Marina, Rafael Ojeda, y por el secretario de la Defensa, Luis Cresencio Sandoval?",0.0,54,16,08,2023
+PREGUNTA, El Interoceánico.,0.0,2,16,08,2023
+PREGUNTA," México es un universo en sí mismo, la alquimia perfecta entre naturaleza, historia, cultura, modernidad; pero sobre todo, su gente.",0.0,20,16,08,2023
+PREGUNTA," De este México venimos, a este México pertenecemos. Somos nosotros, las mujeres y hombres del Ejército y Fuerza Aérea Mexicanos, quienes consagramos nuestra vida para ofrendarla por completo a nuestro país y todo lo que lo hace ser una gran nación.",0.0,41,16,08,2023
+PREGUNTA,"Al igual que ayer, nos mantenemos siempre leales, sin dudar nunca en darlo todo por México. Convencidos siempre de cumplir nuestra misión con honor, valor y lealtad.",0.0,27,16,08,2023
+PREGUNTA," Porque nuestra visión principal eres tú, defendiendo la integridad e independencia de nuestra nación, garantizando tu seguridad y la de México, auxiliando a toda nuestra población en caso de desastres, realizando acciones y obras que ayuden al progreso del país, brindando ayuda a cada mexicano en caso de necesidades públicas.",0.0,50,16,08,2023
+PREGUNTA," Llevando incluso el cumplimiento de nuestro deber aún más allá, contribuyendo a la preservación de nuestra de nuestra riqueza, apoyando la realización de proyectos que transformen a México, e incluso ofreciendo auxilio a otras naciones hermanas cuando así se precise.",0.0,40,16,08,2023
+PREGUNTA, Muy bonito.,0.0,2,16,08,2023
+PREGUNTA,Faltó la calificación que le daría a su Gabinete Legal y Ampliado en estos cinco años.,0.0,16,16,08,2023
+PREGUNTA, Ayer inició la dispersión del dinero.,0.0,6,16,08,2023
+PREGUNTA," Presidente, mi segunda pregunta. Mis compañeros periodistas Vicente Serrano y Epigmenio Ibarra, este último estima que no se le ha dado a usted el reconocimiento de gigante que usted merece, como Hidalgo, Madero, Juárez, Lázaro Cárdenas y otros muchos más.",0.0,40,16,08,2023
+PREGUNTA,"El jueves 14 de octubre del año 2021 usted me dijo que México ya es referencia mundial por haber anulado el modelo neoliberal, y se refirió a la receta que se puede aplicar globalmente y que es muy sencilla: austeridad, honestidad y cero impunidad en tolerar la corrupción.",0.0,48,16,08,2023
+PREGUNTA,"Usted, como jefe del Estado mexicano, derrotó en paz y sin violencia al régimen neoliberal, señor presidente. Todo este trabajo realizado hace que usted sea un gigante y que dejará unos zapatos muy grandes para la mujer o el hombre que continúe el proyecto de la 4T.",0.0,47,16,08,2023
+PREGUNTA,"Yo solamente quisiera solicitarle: al renunciar usted al liderazgo de Morena, cuando entregue el bastón de mando, ahora casi en 20 días, usted dejará a más de 50 millones de mexicanos huérfanos. La pregunta es: ¿cuál sería su mensaje para esa orfandad que usted deja, señor presidente, en México y en el extranjero, también en Estados Unidos?",0.0,57,16,08,2023
+PREGUNTA, Periodistas.,0.0,1,16,08,2023
+PREGUNTA," Shaila Rosagel, —buenos días— corresponsal de Grupo Healy: El Imparcial, de Sonora; Crónica, de Mexicali; y Frontera, de Tijuana.",0.0,19,16,08,2023
+PREGUNTA,"Presidente, el fin de semana se instaló un pedazo del muro de Berlín en Tijuana, frontera con San Diego. El aspirante presidencial Marcelo Ebrard estuvo ahí y dijo que el muro de Estados Unidos con México también debe caer.",0.0,39,16,08,2023
+PREGUNTA,"Presidente, ¿se ha planteado esto a su homólogo Biden, sobre que caiga el muro, también, que hay entre México y Estados Unidos? ¿Qué le han contestado, si es que se ha plateado? Y de no ser así, preguntarle si lo pensaría plantear ahora que lo va a ver en noviembre allá en San Francisco.",0.0,54,16,08,2023
+PREGUNTA,"Y, bueno, también preguntarle si le va a comentar el asunto de las boyas de Texas.",0.0,16,16,08,2023
+PREGUNTA," Si quiere, le hago la segunda pregunta, presidente, en lo que traen la carta. Bueno, en Sonora se ha informado de la detención en las últimas semanas de más 300 migrantes de países de África, Asia y Centroamérica que, según las autoridades, no tenían documentos legales. Los detectan en camiones de pasajeros y casas en regiones como Sonoyta y Hermosillo.",0.0,60,16,08,2023
+PREGUNTA,Preguntarle qué información tiene de esta situación y qué es lo que se está haciendo. Estos datos los dio allá en Sonora el delegado de la FGR recientemente.,0.0,28,16,08,2023
+PREGUNTA," Presidente, ¿le han comentado algo sobre estas detenciones en grupo de migrantes en casas, por ejemplo, en Sonoyta recientemente, en Hermosillo?, ¿en el Gabinete de Seguridad le han comentado algo? En camiones, que son grupos…",0.0,35,16,08,2023
+PREGUNTA, ¿A qué le atribuye el incremento de migrantes?,0.0,8,16,08,2023
+PREGUNTA," Presidente, ya, finalmente, nada más: hace unas semanas comentó que iba a ir a una gira a Baja California. Preguntarle si ya tiene la fecha en la que va a ir para allá y qué temas se tratarían.",0.0,38,16,08,2023
+PREGUNTA," ¿Estará en la toma de posesión de la maestra Delfina, presidente?",0.0,11,16,08,2023
+PREGUNTA," Presidente, (inaudible) el muro este que ya está construido, en la frontera de Tijuana, la frontera de México con Estados Unidos.",0.0,21,16,08,2023
+PREGUNTA, ¿Y se sabe qué tipo de migrantes… (inaudible)?,0.0,8,16,08,2023
+PREGUNTA, Eugenia León también.,0.0,3,16,08,2023
+PREGUNTA, ¿Cuándo me voy? El viernes.,0.0,5,16,08,2023
+PREGUNTA, El Diario Basta cumple 15 años.,0.0,6,16,08,2023
