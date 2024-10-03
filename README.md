@@ -2,6 +2,9 @@
 
 ![Foto del Presidente de Los Estados Unidos Mexicanos, Andres Manuel López Obrador](foto_amlo.jpg)
 
+> [!NOTE]
+> Este repositorio ya no se actualizará. Hemos creado uno nuevo para las conferencias matutinas de la Presidenta Claudia Sheinbaum Pardo aquí: [Conferencias Matutinas de la Presidenta Claudia Sheinbaum Pardo ( Mañaneras )](https://github.com/NOSTRODATA/conferencias_matutinas_sheinbaum)
+
 Este repositorio contiene las transcripciones de las versiones estenográficas de las conferencias matutinas del Presidente Andres Manuel López Obrador desde el inicio de las mismas en Diciembre 2018 organizadas en CSVs.
 
 El objetivo de este repositorio es mostrar el alcance de análisis de datos aplicado a temas de interés público en México. 
